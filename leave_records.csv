@@ -1,0 +1,28 @@
+employee_id,employee_name,leave_type,start_date,end_date
+EMP001,Rahul Sharma,Earned Leave,2025-04-10,2025-04-14
+EMP001,Rahul Sharma,Casual Leave,2025-05-02,2025-05-02
+EMP001,Rahul Sharma,Sick Leave,2025-06-18,2025-06-19
+EMP001,Rahul Sharma,Earned Leave,2025-09-01,2025-09-05
+EMP002,Priya Nair,Casual Leave,2025-04-21,2025-04-22
+EMP002,Priya Nair,Sick Leave,2025-05-15,2025-05-17
+EMP002,Priya Nair,Earned Leave,2025-07-07,2025-07-11
+EMP002,Priya Nair,Marriage Leave,2025-11-10,2025-11-12
+EMP003,Arjun Mehta,Earned Leave,2025-04-28,2025-05-02
+EMP003,Arjun Mehta,Casual Leave,2025-06-05,2025-06-06
+EMP003,Arjun Mehta,Compensatory Off,2025-08-18,2025-08-18
+EMP004,Sneha Reddy,Maternity Leave,2025-04-01,2025-09-29
+EMP004,Sneha Reddy,Casual Leave,2025-10-15,2025-10-15
+EMP005,Karthik Iyer,Sick Leave,2025-05-09,2025-05-09
+EMP005,Karthik Iyer,Casual Leave,2025-05-23,2025-05-24
+EMP005,Karthik Iyer,Earned Leave,2025-12-20,2025-12-27
+EMP005,Karthik Iyer,Bereavement Leave,2025-08-02,2025-08-06
+EMP006,Divya Krishnan,Casual Leave,2025-04-15,2025-04-16
+EMP006,Divya Krishnan,Earned Leave,2025-06-10,2025-06-13
+EMP006,Divya Krishnan,Sick Leave,2025-09-22,2025-09-23
+EMP007,Vikram Rao,Paternity Leave,2025-05-12,2025-05-21
+EMP007,Vikram Rao,Casual Leave,2025-07-18,2025-07-18
+EMP007,Vikram Rao,Earned Leave,2025-11-03,2025-11-07
+EMP008,Anjali Desai,Sick Leave,2025-04-08,2025-04-10
+EMP008,Anjali Desai,Casual Leave,2025-06-26,2025-06-27
+EMP008,Anjali Desai,Earned Leave,2025-10-06,2025-10-10
+EMP008,Anjali Desai,Loss of Pay,2025-12-01,2025-12-02
